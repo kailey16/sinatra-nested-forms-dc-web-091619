@@ -20,11 +20,6 @@ module FormsLab
 
       erb :show
     end
-
-    # get '/pirates/:id' do
-    #   @pirate = Pirate.find(params[:id])
-    #   @ships = Ship.all
-    #   erb :show
-    # end
+  
   end
 end
